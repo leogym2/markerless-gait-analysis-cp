@@ -49,4 +49,5 @@ Seven models are evaluated against SMPL-X ground truth captured at ETH's Volumet
 
 ## Affiliation
 
-SCAI Lab · ETH Zürich · [Rehabilitation Engineering Laboratory](https://relab.ethz.ch/)
+SCAI Lab · ETH Zürich · [SCAI Lab](https://scai.ethz.ch/)
+
